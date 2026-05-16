@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=SpydeY&fontSize=85&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20CEO%20%40%20Vertex%20Creative&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://ibb.co/QFmCzhfn width="100%" />
 
   <p><b>Crafting minimalist, high-performance digital ecosystems.</b></p>
   
