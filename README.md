@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Gradient Banner -->
-  <img src="https://ibb.co/QFmCzhfn width="100%" />
+  <img href="https://ibb.co/QFmCzhfn width="100%" />
 
   <p><b>Crafting minimalist, high-performance digital ecosystems.</b></p>
   
