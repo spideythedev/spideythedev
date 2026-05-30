@@ -1,104 +1,149 @@
 <div align="center">
   <img src="https://iili.io/Bp5LHzl.jpg" width="100%" alt="banner" />
   
-  <p><b>Crafting minimalist, high-performance digital ecosystems.</b></p>
+  <!-- Spider Web Divider -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=000000&center=true&vCenter=true&repeat=false&width=500&height=30&lines=⟡+WEAVING+DIGITAL+ECOSYSTEMS+⟡" alt="Weaving Digital Ecosystems" />
   
+  <p><b>Silent. Precise. Lethal to bugs.</b></p>
+
   <p align="center">
     <a href="https://spideythedev.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-spideythedev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/⟡_WEB_⟡-spideythedev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" alt="Portfolio" />
     </a>
     <a href="mailto:hellospideydev@gmail.com">
-      <img src="https://img.shields.io/badge/Email-hellospideydev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/⟡_SILK_⟡-hellospideydev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email" />
     </a>
     <a href="https://github.com/spideythedev" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-spideythedev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/⟡_WEB_⟡-spideythedev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub" />
     </a>
-    <img src="https://img.shields.io/badge/Discord-spidey.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/⟡_VENOM_⟡-spidey.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=111111" alt="Discord" />
   </p>
 </div>
 
 ---
 
-### 01 — Executive Summary
+### 🕷️ 01 — PROFILE: THE HUNTER
 
-**Full Stack Developer** & **Founder/CEO at Vertex Creative**
+<pre>
+┌─────────────────────────────────────────────────┐
+│  ⎈  Full Stack Developer  ⎈  Founder/CEO       │
+│  ⎈  Vertex Creative       ⎈  23 cycles old     │
+│  ⎈  Tokyo, Japan          ⎈  fangs sharpened   │
+└─────────────────────────────────────────────────┘
+</pre>
 
-Leading the vision at **Vertex Creative** as Founder and CEO. I specialize in high-end, enterprise-level web applications with an absolute dedication to clean, SaaS-style UI/UX and robust backend architecture.
+> **Crawling at the apex of web development.** I lead **Vertex Creative** from the shadows — engineering high-end, enterprise-grade applications with obsessive attention to clean, predatory UI/UX and venomous backend architecture.
 
-<table>
-   <tr>
-     <td><b>📍 Location</b></td>
-     <td>Tokyo, Japan</td>
-   </tr>
-   <tr>
-     <td><b>🎂 Age</b></td>
-     <td>23</td>
-   </tr>
-   <tr>
-     <td><b>💼 Role</b></td>
-     <td>Founder & CEO @ Vertex Creative / Full Stack Developer</td>
-   </tr>
-   <tr>
-     <td><b>🌐 Portfolio</b></td>
-     <td><a href="https://spideythedev.vercel.app">spideythedev.vercel.app</a></td>
-   </tr>
-</table>
+| Trait | Status |
+|-------|--------|
+| **Role** | Founder & CEO @ Vertex Creative |
+| **Location** | 🕸️ Tokyo, Japan |
+| **Age** | 23 (shedding exoskeletons since '01) |
+| **Primary Prey** | SaaS UI/UX, WebOS, Real-time Systems |
 
 ---
 
-### 02 — The Stack
+### 🕸️ 02 — VENOM SACK (The Stack)
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,python,cpp,js,ts,figma,vercel,github&theme=dark" alt="Tech Stack" />
 </div>
 
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | React, Next.js, Tailwind CSS, TypeScript, JavaScript |
-| **Backend** | Node.js, Python, Firebase |
-| **Tools** | Figma, Vercel, GitHub, Discord Bot API |
-| **Core Strengths** | SaaS UI/UX, WebOS Architecture, Real-time Systems |
+| Category | Weapons |
+|----------|---------|
+| **Frontend Fangs** | React, Next.js, Tailwind CSS, TypeScript, JavaScript |
+| **Backend Web** | Node.js, Python, Firebase |
+| **Tools of the Trade** | Figma, Vercel, GitHub, Discord Bot API |
+| **Signature Toxins** | SaaS UI/UX, WebOS Architecture, Real-time Systems |
 
 ---
 
-### 03 — Active Operations
+### 🕷️ 03 — THE WEB (Active Operations)
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│    ┌─────────────┐      ┌─────────────┐      ┌─────────────┐   │
+│    │  VERTEX     │      │  VERTEXOS   │      │   SCOPE     │   │
+│    │  CREATIVE   │◄────►│   (WebOS)   │◄────►│ (Social)    │   │
+│    │  (CEO)      │      │  (Creator)  │      │ (Creator)   │   │
+│    └──────┬──────┘      └──────┬──────┘      └──────┬──────┘   │
+│           │                    │                    │           │
+│           ▼                    ▼                    ▼           │
+│    ┌─────────────┐      ┌─────────────┐                         │
+│    │  BUILDCORE  │      │FIRE ARCADE  │                         │
+│    │ (Founder)   │      │ (Creator)   │                         │
+│    └─────────────┘      └─────────────┘                         │
+│                                                                 │
+│         🕸️  +2 new projects spinning in the dark 🕸️            │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 | Project | Role | Description |
 |---------|------|-------------|
-| **Vertex Creative** | Founder & CEO | Scaling high-end digital solutions and leading specialized development teams |
-| **VertexOS** | Creator | A premium, professional web-based operating system |
-| **Scope** | Creator | The definitive social infrastructure built specifically for developers |
-| **BuildCore** | Founder | Platforms for developers (Scope network + Kodo learning app) |
-| **Fire Arcade** | Creator | Gamified arcade system with live boss battles and XP progression |
+| **Vertex Creative** | Founder & CEO | The main web — scaling high-end digital ecosystems |
+| **VertexOS** | Creator | A premium web-based operating system (my masterpiece) |
+| **Scope** | Creator | Developer social infrastructure — where spiders gather |
+| **BuildCore** | Founder | Platforms for developers (Scope + Kodo learning) |
+| **Fire Arcade** | Creator | Gamified arcade with live boss battles & XP |
 
 ---
 
-### 04 — GitHub Analytics (Live)
+### 📊 04 — HUNTER STATISTICS (Live)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spideythedev&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=555555&bg_color=ffffff&hide=contribs" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spideythedev&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=spideythedev&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=888888&text_color=aaaaaa&bg_color=0a0a0a&hide=contribs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spideythedev&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0a0a0a" width="48%" />
+</div>
 
-> **Note:** If stats aren't loading, the public API is rate-limited. [Deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) for reliable stats.
+```
+⟡  Prey caught this quarter:  ∞
+⟡  Webs spun:                 15+ projects
+⟡  Venom potency:             Maximum
+```
+
+> *Stats API occasionally rate-limited. The spider waits patiently.*
 
 ---
 
-### 06 — Connect & Explore
+### 🕸️ 05 — CURRENT OBJECTIVES
 
-| Platform | Link |
-|----------|------|
-| 🕸️ **Portfolio** | [spideythedev.vercel.app](https://spideythedev.vercel.app) |
-| 🎮 **Fire Arcade** | [spideythedev.vercel.app/extra.html](https://spideythedev.vercel.app/extra.html) |
-| 📧 **Email** | hellospideydev@gmail.com |
-| 💬 **Discord** | spidey.dev |
+```yaml
+priority_level: CRITICAL
+hunting_targets:
+  - Scale Vertex Creative to global dominance
+  - Deploy VertexOS v2.0 (the big web)
+  - Grow Scope developer network
+  - Engineer new predatory features
+status: HUNTING
+```
+
+---
+
+### 📡 06 — FIND THE SPIDER
+
+| Platform | Thread |
+|----------|--------|
+| 🕸️ Portfolio | [spideythedev.vercel.app](https://spideythedev.vercel.app) |
+| 🎮 Fire Arcade | [spideythedev.vercel.app/extra.html](https://spideythedev.vercel.app/extra.html) |
+| 📧 Silk Thread | hellospideydev@gmail.com |
+| 💬 The Lair | spidey.dev on Discord |
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=Design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Design%20is%20how%20it%20works." alt="Quote" />
-  
-  <br/>
-  
-  <sub><b>Tokyo Based Developer | Building cool stuff for the web</b></sub>
+  <pre>
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║     "The early spider gets the fly — but the patient         ║
+  ║      spider builds the web that catches the swarm."          ║
+  ║                                                              ║
+  ║                    — Vertex Creative, est. 2024              ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
+  </pre>
+
+  <sub><b>🕷️ Tokyo Based Developer | Building webs, catching bugs 🕸️</b></sub>
+
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
