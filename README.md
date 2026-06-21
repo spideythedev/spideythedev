@@ -31,7 +31,7 @@
 ### **about**
 
 ```
-leaf corporation + aemo inc.
+Flamics LLC
 ├── role: founder & ceo
 ├── location: tokyo
 ├── age: 23
@@ -63,11 +63,11 @@ leaf corporation + aemo inc.
 | project | description | status | link |
 |:---|:---|:---|:---|
 | **KoDo** | learning platform (discord py + python) | live | [kodo-discordpy.vercel.app](https://kodo-discordpy.vercel.app) / [kodo-mu.vercel.app](https://kodo-mu.vercel.app) |
-| **GramoAI** | AI intelligence platform | live | [gramoai.vercel.app](https://gramoai.vercel.app) |
+| **FlamoAI** | AI intelligence platform, Under FlamicsLLC | live | [flamoai.vercel.app](https://gramoai.vercel.app) |
 | **CloverCSS** | css library (never ending) | in progress | [clover-css.vercel.app](https://clover-css.vercel.app) |
-| **VertexOS** | small OS mobile responsive | live | [vertexos.vercel.app](https://vertexos.vercel.app) |
-| **Ply Terminal** | android linux IDE for learners | not started | — |
-| **LucidOS** | small OS mobile responsive | not started | — |
+| **LucidOS** | small OS fully responsive | live | [lucid-os-live.vercel.app](https://vertexos.vercel.app) |
+| **Aether-0** | Simulating Linux IDE for learners | Live | [aether-0.vercel.app](https://aether-0.vercel.app) |
+| **FlamoPass** | Pass/Notes/Address/Cards Manager | Live | [flamo-pass.vercel.app](https://flamo-pass.vercel.app) |
 
 ---
 
