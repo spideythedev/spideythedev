@@ -4,7 +4,7 @@
 
 <br/>
 
-# **LEAF CORPORATION** — **AEMO INC.**
+# **Flamics LLC**
 ### *Founder & CEO · Tokyo · 23*
 
 <br/>
