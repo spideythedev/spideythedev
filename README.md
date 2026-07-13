@@ -22,8 +22,6 @@
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=14&duration=2000&pause=1000&color=7B2EDA&center=true&vCenter=true&width=400&height=20&lines=founder+⟡+ceo+⟡+full_stack+⟡+tokyo"/>
-
 </div>
 
 ---
