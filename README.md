@@ -4,7 +4,7 @@
 
 <br/>
 
-# **Hey There, I'm Fahad**
+# **Hello, I'm Fahad**
 ### *Founder & CEO @ Flamics · Tokyo · 23*
 
 <br/>
