@@ -4,8 +4,8 @@
 
 <br/>
 
-# **Flamics LLC**
-### *Founder & CEO · Tokyo · 23*
+# **Hey There, I'm Fahad**
+### *Founder & CEO @ Flamics · Tokyo · 23*
 
 <br/>
 
