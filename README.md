@@ -3,9 +3,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2EDA,100:00FF88&height=120&section=header"/>
 
 <br/>
-
+<img src="https://yoppic.vercel.app/yoppic.png" align="center" alt="yoppic">
 # **Hello, I'm Fahad**
-### *Founder & CEO @ Flamics · Tokyo · 23*
+### *Founder @ Yoppic · Tokyo · 23*
 
 <br/>
 
@@ -29,8 +29,8 @@
 ### **about**
 
 ```
-Flamics LLC
-├── role: founder & ceo
+Yoppic
+├── role: founder
 ├── location: tokyo
 ├── age: 23
 └── building: web3 · apps · infrastructure
