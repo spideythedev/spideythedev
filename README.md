@@ -3,7 +3,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2EDA,100:00FF88&height=120&section=header"/>
 
 <br/>
+
 <img src="https://yoppic.vercel.app/yoppic.png" align="center" alt="yoppic">
+
+
 # **Hello, I'm Fahad**
 ### *Founder @ Yoppic · Tokyo · 23*
 
