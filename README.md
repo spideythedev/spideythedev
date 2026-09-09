@@ -10,8 +10,6 @@
 # **Hello, I'm Fahad**
 ### *Founder @ Yoppic · Tokyo · 23*
 
-<img src="https://yoppic.vercel.app/yoppic.png" align="center" alt="yoppic">
-
 <br/>
 
 <a href="https://spideythedev.vercel.app">
