@@ -70,7 +70,7 @@ Yoppic
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/spideythedev/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
