@@ -27,8 +27,10 @@
 
 ### My Stats
 ![](https://ghstats.dev/api/card?username=spideythedev&theme=midnight)
-</div>
 
+
+![Top Languages](https://ghstats.dev/api/langs?username=spideythedev)
+</div>
 <br/>
 <br/>
 
