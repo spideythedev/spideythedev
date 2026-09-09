@@ -61,21 +61,8 @@ Yoppic
 | backend | `python` `node` `discord py` |
 | web3 | `solidity` `ethers` `web3.js` |
 | design | `figma` `motion` `blender` |
-| infra | `vercel` `firebase` |
+| infra | `vercel` `firebase` `supabase` |
 
-
----
-
-### **metrics**
-
-<div align="center">
-
-<br/>
-<br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=spideythedev&theme=dark&background=0A0A0A&stroke=7B2EDA&ring=7B2EDA&fire=FF3333&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7B2EDA&sideLabels=888888&hide_border=true"/>
-
-</div>
 
 ---
 
