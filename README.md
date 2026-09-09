@@ -20,6 +20,7 @@
 </a>
 <a href="https://github.com/spideythedev">
   <img src="https://img.shields.io/badge/github-0A0A0A?style=flat-square&logo=github&logoColor=white"/>
+</br>
   <img src="https://komarev.com/ghpvc/?username=spideythedev&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 </a>
 
