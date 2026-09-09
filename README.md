@@ -25,7 +25,7 @@
 
 ---
 
-### stats
+### My Stats
 ![](https://ghstats.dev/api/card?username=spideythedev&theme=midnight)
 </div>
 
