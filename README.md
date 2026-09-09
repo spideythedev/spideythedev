@@ -61,27 +61,12 @@ Yoppic
 | design | `figma` `motion` `blender` |
 | infra | `vercel` `firebase` |
 
----
-
-### **projects**
-
-| project | description | status | link |
-|:---|:---|:---|:---|
-| **KoDo** | learning platform (discord py + python) | live | [kodo-discordpy.vercel.app](https://kodo-discordpy.vercel.app) / [kodo-mu.vercel.app](https://kodo-mu.vercel.app) |
-| **FlamoAI** | AI intelligence platform, Under FlamicsLLC | live | [flamoai.vercel.app](https://gramoai.vercel.app) |
-| **CloverCSS** | css library (never ending) | in progress | [clover-css.vercel.app](https://clover-css.vercel.app) |
-| **LucidOS** | small OS fully responsive | live | [lucid-os-live.vercel.app](https://vertexos.vercel.app) |
-| **Aether-0** | Simulating Linux IDE for learners | Live | [aether-0.vercel.app](https://aether-0.vercel.app) |
-| **FlamoPass** | Pass/Notes/Address/Cards Manager | Live | [flamo-pass.vercel.app](https://flamo-pass.vercel.app) |
 
 ---
 
 ### **metrics**
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spideythedev&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=7B2EDA&icon_color=00FF88&text_color=FFFFFF&ring_color=FF3333&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spideythedev&layout=compact&theme=dark&bg_color=0A0A0A&title_color=7B2EDA&text_color=FFFFFF&hide_border=true"/>
 
 <br/>
 <br/>
