@@ -23,7 +23,9 @@
 <a href="https://github.com/spideythedev">
   <img src="https://img.shields.io/badge/github-0A0A0A?style=flat-square&logo=github&logoColor=white"/>
 </a>
+
 ![](https://github-readme-stats.shion.dev/api?username=spideythedev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
+
 <br/>
 <br/>
 
