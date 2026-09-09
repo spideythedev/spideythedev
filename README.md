@@ -23,13 +23,13 @@
 <a href="https://github.com/spideythedev">
   <img src="https://img.shields.io/badge/github-0A0A0A?style=flat-square&logo=github&logoColor=white"/>
 </a>
-<div align="center">
+
 ![](https://ghstats.dev/api/card?username=spideythedev&theme=midnight)
 </div>
+
 <br/>
 <br/>
 
-</div>
 
 ---
 
