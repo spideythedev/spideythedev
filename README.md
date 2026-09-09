@@ -63,7 +63,7 @@ Yoppic
 | frontend | `react` `next` `js` |
 | backend | `python` `node` `discord py` |
 | web3 | `solidity` `ethers` `web3.js` |
-| design | `figma` `motion` `blender` |
+| design | `figma` `canva` |
 | infra | `vercel` `firebase` `supabase` |
 
 
