@@ -8,7 +8,7 @@
 
 
 # **Hello, I'm Fahad**
-### *Founder @ Yoppic · Tokyo · 23*
+### *Founder @ Yoppic*
 
 <br/>
 
@@ -43,9 +43,8 @@
 ```
 Yoppic
 ├── role: founder
-├── location: tokyo
-├── age: 23
-└── building: web3 · apps · infrastructure
+├── location: idk
+└── things: web & interface design • cybersecurity • systems & automation • ai & experimentation
 ```
 
 ---
@@ -65,23 +64,14 @@ Yoppic
 | web3 | `solidity` `ethers` `web3.js` |
 | design | `figma` `canva` |
 | infra | `vercel` `firebase` `supabase` |
+| cybersecurity | `kali` `Linux` `python` `shell` |
 
-
----
-
-### **activity**
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/spideythedev/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
 <div align="center">
 
-**"build. wait. dominate."**
+**"build!"**
 
 <br/>
 <br/>
