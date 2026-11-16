@@ -24,7 +24,7 @@ I don't really have a niche. I like exploring.
 
 <div align="center">
 
-<img src="https://media.tenor.com/7h6aX7FqXxAAAAAC/pepe-happy.gif" width="100" />
+<img src="https://tenor.com/mrmUsjJbxJW.gif" width="100" />
 
 **anyway, welcome to my little corner of GitHub.**
 
