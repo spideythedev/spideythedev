@@ -1,81 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2EDA,100:00FF88&height=120&section=header"/>
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif" width="180" />
 
-<br/>
+# hey, I'm Fahad! 👋
 
+**aka SpydeY**
 
-
-
-# **Hello, I'm Fahad**
-### *Founder @ Yoppic*
-
-<br/>
-
-<a href="https://spideythedev.vercel.app">
-  <img src="https://img.shields.io/badge/portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-<a href="mailto:hellospideydev@gmail.com">
-  <img src="https://img.shields.io/badge/email-0A0A0A?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/spideythedev">
-  <img src="https://img.shields.io/badge/github-0A0A0A?style=flat-square&logo=github&logoColor=white"/>
-
-</a>
-
-
----
-
-### My Stats
-![](https://ghstats.dev/api/card?username=spideythedev&theme=midnight)
-
-
-![Top Languages](https://ghstats.dev/api/langs?username=spideythedev)
-</div>
-<br/>
-<br/>
-
-
----
-
-### **about**
-
-```
-Yoppic
-├── role: founder
-├── location: idk
-└── things: web & interface design • cybersecurity • systems & automation • ai & experimentation
-```
-
----
-
-### **stack**
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,react,nextjs,nodejs,js,figma,vercel,firebase,cpp,c,blender&theme=dark"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=just+another+human+on+the+internet;I+make+things+because+why+not%3F;probably+overthinking+something+right+now." />
 
 </div>
 
-| layer | tools |
-|:---|:---|
-| frontend | `react` `next` `js` |
-| backend | `python` `node` `discord py` |
-| web3 | `solidity` `ethers` `web3.js` |
-| design | `figma` `canva` |
-| infra | `vercel` `firebase` `supabase` |
-| cybersecurity | `kali` `Linux` `python` `shell` |
-
-
 ---
+
+I spend an unreasonable amount of time on things that start with **"what if..."**
+
+I code, experiment, break stuff, rebuild stuff, and occasionally question my life choices.
+
+I like the internet, open source, weird ideas, and making things that didn't exist before.
+
+I don't really have a niche. I like exploring.
+
+> Don't fall prey to flattery. Build always!
 
 <div align="center">
 
-**"build!"**
+<img src="https://media.tenor.com/7h6aX7FqXxAAAAAC/pepe-happy.gif" width="100" />
 
-<br/>
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:7B2EDA&height=80&section=footer"/>
+**anyway, welcome to my little corner of GitHub.**
 
 </div>
